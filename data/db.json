@@ -1,0 +1,72 @@
+{
+  "blogs": [
+    {
+      "title": "Gosh, I Love You, Too, Honey",
+      "body": "When you use the voice-to-text feature on a phone, it usually gets some words wrong in an understandable way. This is the story of the best (and worst) voice-to-text error I’ve ever seen.\n\nI used to take classes at the University of Washington, or UW. People would commonly pronounce the name “U-Dub” rather than saying the whole thing. One day, I was just leaving a class at a secondary campus in a smaller town called Bothell.\n\nI texted my husband to tell him where to meet me. He was already driving, so his phone read out my text to him, and he replied using voice-to-text.\n\nHusband: *To his phone* “Okay, I’m coming to pick you up at U-dub Bothell.”\n\nText I Received: “Okay, I’m coming to pick you up and you are awful.”\n\nFortunately, I knew right away it was a mistake, and we had a great laugh about it when he got there and I showed him how the text had turned out!",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "Thanks For Setting Me Up To Fail",
+      "body": "Client: “We would like you to make a brochure insert for our DVD.”\n\nMe: “Sure. What colours, font, pictures, and written content would you like?”\n\nClient: “We don’t know. We’d just like it to be professional-looking. Just do what you think looks good.”\n\nMe: “Sure thing.”\n\nAfter doing some research on their business, I create a brochure based on the colours and fonts that they use on their website, as well as sourcing pictures from the DVD for the brochure.\n\nClient: “Thanks for your effort, but we’d like to make some changes. We’d like the font to be plain Arial, remove the colours to just black and white, and remove all the pictures. We think they’re too distracting.”\n\nMe: “I wouldn’t recommend that. You need at least some colour or pictures; otherwise, it’ll be boring and flat.”\n\nClient: “Just remove them, please. And we’d like a copy so that we can show our CEO for approval.”\n\nMe: *Shrugs* “Sure.”\n\nAfter several days of waiting for final client approval, I finally hear back from them.\n\nClient: “After much deliberation, we’ve decided that we no longer require the brochure. And we’d like to add that we are very disappointed in your design services, and we’d like a refund on our deposit.”\n\nMe: “Oh? Why is that?”\n\nClient: “We found the brochure too boring and unprofessional. I mean, there aren’t even any colours.”",
+      "author": "yoshi",
+      "id": 5
+    },
+    {
+      "title": "We Do Not Control The Whole Internet",
+      "body": "I’m working with a client who is the Director of Information Technology for a large organization.\n\nClient: “I need a conference call with you. I thought WordPress was supposed to be easy to use, but I can’t make this d*** link work!”\n\nMe: “I just clicked on the link and it seems to work fine. What exactly is the trouble?”\n\nClient: “The link works fine, but the site it’s linking to is broken!”\n\nIt took a lengthy follow-up explanation to clue this person into the fact that we have no control over the site they’re linking to.",
+      "author": "mario",
+      "id": 6
+    },
+    {
+      "title": "Interesting Marketing Strategy You’ve Got There",
+      "body": "I had an out-of-state client who wanted to sell high-end antiques on eBay. However, she wanted to remain anonymous. \n\nClient: “Can you help me sell these items on eBay without customers knowing who I am?”\n\nMe: “Absolutely. We don’t have to mention your name or the business name.”\n\nClient: “Great. But I can’t ship the items.”\n\nMe: “Okay, maybe we can have customers do a local pick-up from your warehouse?”\n\nClient: “No, that won’t work. I don’t want customers to know my business sold them the items.”\n\nMe: “Okay, so we can’t ship the items. And they can’t pick up from your store or warehouse. What do you suggest?”\n\nClient: “I don’t know. If we can’t send them and they can’t pick them up, what are our options?”\n\nMe: “A middleman who swears a blood oath not to reveal your identity.”",
+      "author": "mario",
+      "id": 7
+    }
+  ],
+  "reviews": [
+    {
+      "username": "Harvey Barnes",
+      "body": "I love the way this site tell me about my daily horoscope so accurately. I am able to start and plan my day wisely. Thank you so much for accurate predictions",
+      "rating": 4,
+      "id": 1
+    },
+    {
+      "username": "Mugumbae Hunda",
+      "body": "First I didnt not belive about this website but once I stared using it I can see huge improvement in my carrer. I am able to start and plan my day wisely. Thank you so much for accurate predictions",
+      "rating": 5,
+      "id": 2
+    },
+    {
+      "username": "Ho Dung Chin",
+      "body": "Excellent, accurate and on Point. I never miss to read about my horoscope it's personalized and accurate",
+      "rating": 4,
+      "id": 3
+    },
+    {
+      "username": "Vishal U",
+      "body": "This is a sample review. I am sure it will be uploaded in the dbjson file. Thanks for reading this shitty review :)",
+      "rating": "4",
+      "id": 4
+    },
+    {
+      "username": "Doshi Yakamuva",
+      "body": "If the answer is No, you need to become aware of the importance of positive reviews, and our post about positive reviews examples: copy and paste ideas is here to help you.\n\nNow that we live in a world where you practically don’t exist if you don’t have any online presence, customer reviews are one of the most important marketing tools.\n\nNot only do reviews provide critical information about your company’s performance, but they also show future clients what their experience will look like.",
+      "rating": "3",
+      "id": 5
+    },
+    {
+      "username": "Jeremy Trossaad",
+      "body": "Customers browse customer reviews to learn how others use and enjoy your products.\n\nThey are also interested in the experiences of others with your customer service team, or other employees who might have been helpful.\n\nThere are many benefits of showcasing positive reviews about your company or products. Here are some of them:",
+      "rating": "2",
+      "id": 6
+    },
+    {
+      "username": "Jeremy Trossaad",
+      "body": "Customers browse customer reviews to learn how others use and enjoy your products.\n\nThey are also interested in the experiences of others with your customer service team, or other employees who might have been helpful.\n\nThere are many benefits of showcasing positive reviews about your company or products. Here are some of them:",
+      "rating": "2",
+      "id": 7
+    }
+  ]
+}
